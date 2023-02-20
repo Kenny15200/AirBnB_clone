@@ -1,5 +1,13 @@
 footer {
-    color: white;
+    background-color: white;
     height: 60px;
-    border-top: 1px #cccccc;
+    border-top-style: solid;
+    display: flex;
+    bottom: -5%;
+    text-align: center;
+    border-top-color: #CCCCCC;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    width: 100%;
 }
