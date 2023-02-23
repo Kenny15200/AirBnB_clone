@@ -2,8 +2,8 @@ footer {
     background-color: white;
     height: 60px;
     border-top-style: solid;
-    display: flex;
-    bottom: -5%;
+    /* display: flex; */
+    /* bottom: -5%; */
     text-align: center;
     border-top-color: #CCCCCC;
     align-items: center;
